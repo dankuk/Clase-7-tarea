@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "Moto1",
+		"price": 100,
+		"thumbnail": "imagen"
+	},
+	{
+		"id": 2,
+		"title": "Moto2",
+		"price": 2100,
+		"thumbnail": "imagen"
+	},
+	{
+		"id": 3,
+		"title": "Moto3",
+		"price": 2100,
+		"thumbnail": "imagen"
+	},
+	{
+		"id": 4,
+		"title": "Moto4",
+		"price": 2100,
+		"thumbnail": "imagen"
+	},
+	{
+		"id": 5,
+		"title": "Moto5",
+		"price": 2100,
+		"thumbnail": "imagen"
+	}
+]
